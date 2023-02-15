@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="ProjectStore.app/ProjectStore">
+      <BCSymbolMapName>ProjectStore.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>ProjectStore.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/ammar-macbookpro-14/RiderProjects/ProjectStore/ProjectStore/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>ProjectStore.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/ammar-macbookpro-14/RiderProjects/ProjectStore/ProjectStore</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
