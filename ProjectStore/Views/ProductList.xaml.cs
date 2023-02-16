@@ -11,5 +11,7 @@ public partial class ProductList : ContentView
     public ProductList()
     {
         InitializeComponent();
+        // Initializing the BindingContext with Products
+        BindingContext = new Models.AllProducts();
     }
 }
